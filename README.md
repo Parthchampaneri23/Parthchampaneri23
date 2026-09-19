@@ -125,6 +125,23 @@ A modern industrial website developed to showcase products, industries, infrastr
 
 ---
 
+## 🎓 Education
+
+### MSc Information Technology
+
+**University of Mumbai**
+
+Focused on Information Technology, software development, web technologies, AI & Machine Learning, and cybersecurity.
+
+### BSc Information Technology
+
+**9.25 CGPA**
+
+Built a strong foundation in programming, databases, web development and information technology.
+
+---
+
+
 
 
 
