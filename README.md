@@ -158,6 +158,25 @@ Built a strong foundation in programming, databases, web development and informa
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Parthchampaneri23">
+    <img src="https://img.shields.io/badge/GitHub-Parth%20Champaneri-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### `BUILD • LEARN • CREATE • IMPROVE`
+
+Thanks for visiting my profile! ⭐
+
+</p>
+
+
 
 
 
