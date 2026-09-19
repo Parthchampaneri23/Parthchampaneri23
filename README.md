@@ -99,5 +99,32 @@ I work on creating clean user interfaces, developing functional web experiences,
 
 ---
 
+## 🚀 Featured Projects
+
+### 💊 Aurevia Healthcare
+
+**Pharmaceutical Healthcare Website**
+
+A modern, professional website designed for a pharmaceutical and healthcare business, featuring product information, manufacturing details, careers and enquiry sections.
+
+**Technologies:** Next.js • React.js • JavaScript • Node.js • MongoDB
+
+🌐 **Live Website:** [Aurevia Healthcare](https://aurevia-healthcare-one.vercel.app/)
+
+---
+
+### 🏭 SteelNova
+
+**Industrial & Manufacturing Website**
+
+A modern industrial website developed to showcase products, industries, infrastructure, projects and business enquiry services.
+
+**Technologies:** Next.js • React.js • JavaScript
+
+🌐 **Live Website:** [SteelNova](https://steel-nova-weld.vercel.app/)
+
+---
+
+
 
 
