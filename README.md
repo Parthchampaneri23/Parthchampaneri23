@@ -141,6 +141,23 @@ Built a strong foundation in programming, databases, web development and informa
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthchampaneri23&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthchampaneri23&layout=compact&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Parthchampaneri23&hide_border=true" />
+</p>
+
+---
+
 
 
 
