@@ -74,4 +74,30 @@ I work on creating clean user interfaces, developing functional web experiences,
 
 ---
 
+## 💼 Professional Journey
+
+```text
+2024
+│
+└── 📊 Data Analyst Intern
+    Anudip Foundation
+
+2025
+│
+├── 💻 Full-Stack Developer Intern
+│   Codec Technologies
+│
+└── 🌐 Frontend Development Projects
+
+2026
+│
+├── 🎓 MSc IT Graduate
+│
+└── 💻 MERN Stack Developer
+    RnD Technosoft
+```
+
+---
+
+
 
